@@ -68,7 +68,7 @@ p {
 .animated-glade, .animated-lair, .animated-resting, .animated-new-path, .animated-secret,
 .animated-path-return, .animated-artifacts, .animated-leave-lair {
     width: 50%;
-    max-width: 200px; /* Larger image size */
+    max-width: 300px; /* Larger image size */
     height: auto;
     border-radius: 15px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4); /* Enhanced shadow for images */
